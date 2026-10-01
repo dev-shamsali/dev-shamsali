@@ -32,11 +32,4 @@ I build and ship production web apps end to end: from React and Node.js to Nginx
 | [DevCodeHub](https://devcodehub.cloud) | Real-time collaborative code editor, 25+ languages |
 | [Portfolio](https://shamsali.devcodehub.cloud) | Next.js, GSAP, tuned for Core Web Vitals |
 
-## 📈 Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dev-shamsali&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shamsali&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
 📫 Open to work and collaborations: [dev.shamsali@gmail.com](mailto:dev.shamsali@gmail.com)
