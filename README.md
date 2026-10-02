@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shams Ali Shaikh 👋</h1>
+<h1 align="center">Hi, I'm Shams Ali Shaikh </h1>
 <p align="center"><b>Software Engineer · MERN Stack · Next.js · DevOps</b><br/>Mumbai, India</p>
 
 <p align="center">
