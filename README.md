@@ -17,9 +17,9 @@
 
 ## Open source
 
-### [Rhea.js](https://github.com/dev-shamsali/FW)
+### [Rhea.js](https://github.com/dev-shamsali/Rhea.js-framework)
 
-A secure, convention-driven backend framework for Node.js and Express 5. Published to npm as an alpha.
+A secure, convention-driven backend framework for Node.js and Express 5. Version 1.0.0 is on npm.
 
 ```bash
 npx create-rhea my-api
@@ -29,13 +29,13 @@ npx create-rhea my-api
 - Security defaults, Zod validation, structured logging, graceful shutdown, shared rate limiting and a CLI that generates modules with tests.
 - Docs and website: [rhea.devcodehub.cloud](https://rhea.devcodehub.cloud). Packages: [npm](https://www.npmjs.com/org/rheajs).
 
-Rhea.js is labelled alpha on purpose: it has had no independent security review yet. The [self-audit](https://github.com/dev-shamsali/FW/blob/main/SECURITY_AUDIT.md) lists what was tested, fixed and still open.
+Used in production by its author. It has had no independent security review yet, so read the [self-audit](https://github.com/dev-shamsali/Rhea.js-framework/blob/main/SECURITY_AUDIT.md) for what was tested, fixed and still open.
 
 ## Selected work
 
 | Project | What it is |
 | --- | --- |
-| **Settla** (private) | Payment resolution for failed orders. |
+| Settla: [backend](https://github.com/dev-shamsali/settla-backend), [frontend](https://github.com/dev-shamsali/settla-frontend) | Payment resolution for failed orders (money debited, no order). Node.js, Express, MongoDB and BullMQ API with a Next.js operations console. |
 | [Arna Skincare](https://arnaskincare.in) | Production MERN storefront on AWS EC2 with Razorpay payments and Prometheus monitoring. |
 | [DevCodeHub](https://devcodehub.cloud) | Real-time collaborative code editor with role-based access and 25+ languages. |
 | [Portfolio](https://shamsali.devcodehub.cloud) | Personal site tuned for Core Web Vitals, built with Next.js, GSAP and Framer Motion. |
